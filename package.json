@@ -1,0 +1,17 @@
+{
+  "name": "mean-quickstart",
+  "version": "1.0.0",
+  "description": "MEAN quickstart (Mongo, Express, AngularJS, Node)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "mongo-in-memory": "0.0.5",
+    "path": "^0.12.7"
+  }
+}
