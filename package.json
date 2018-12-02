@@ -11,7 +11,8 @@
   "dependencies": {
     "express": "^4.16.4",
     "fs": "0.0.1-security",
-    "mongo-in-memory": "0.0.5",
+    "mongodb-prebuilt": "^6.3.6",
+    "mongoose": "^5.3.14",
     "path": "^0.12.7"
   }
 }
